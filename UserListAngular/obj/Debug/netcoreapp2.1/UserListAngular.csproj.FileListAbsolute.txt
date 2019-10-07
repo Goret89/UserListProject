@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UserListAngular\UserListAngular\bin\Debug\netcoreapp2.1\UserListAngular.deps.json
+C:\Users\User\source\repos\UserListAngular\UserListAngular\bin\Debug\netcoreapp2.1\UserListAngular.runtimeconfig.json
+C:\Users\User\source\repos\UserListAngular\UserListAngular\bin\Debug\netcoreapp2.1\UserListAngular.runtimeconfig.dev.json
+C:\Users\User\source\repos\UserListAngular\UserListAngular\bin\Debug\netcoreapp2.1\UserListAngular.dll
+C:\Users\User\source\repos\UserListAngular\UserListAngular\bin\Debug\netcoreapp2.1\UserListAngular.pdb
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.AssemblyInfo.cs
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.dll
+C:\Users\User\source\repos\UserListAngular\UserListAngular\obj\Debug\netcoreapp2.1\UserListAngular.pdb
